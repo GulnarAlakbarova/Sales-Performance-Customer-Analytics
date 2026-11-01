@@ -1,6 +1,4 @@
 # Sales-Performance-Customer-Analytics
-# Sales Performance & Customer Analytics Dashboard
-
 ## Project Overview
 
 This project presents an interactive analysis of sales performance, sales opportunities, customer revenue, and employee productivity using Microsoft Power BI.
